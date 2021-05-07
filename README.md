@@ -1,5 +1,6 @@
 # Harry-Potter-Sorting-Hat
-Answer each question to get place by the sorting hat! <br/>
+Wondering which houst you belong to in Harry Potter?
+Answer each question to get placed by the sorting hat! <br/>
 [Demo Video](https://youtu.be/IfR_NOP8V38)
 
 ## Run project 
